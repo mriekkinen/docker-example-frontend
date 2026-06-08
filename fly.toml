@@ -4,7 +4,7 @@
 #
 
 app = 'example-frontend-tidy-comet-7555'
-primary_region = 'arn'
+primary_region = 'fra'
 
 [build]
 
