@@ -1,5 +1,9 @@
 # example-frontend
 
+**Frontend:** https://example-frontend-tidy-comet-7555.fly.dev/
+
+**Backend:** https://example-backend-tidy-comet-7555.fly.dev/
+
 This project is created to help learn docker configurations for frontend projects. The README starting from "Prerequisites" is written without Docker in mind so student has to figure out how to construct their configuration based on the README. However, there are some additional helpers added in the README and in the exercise description.
 
 > Notice, that all the information is not needed in all the exercises. Don't just copy-paste.
